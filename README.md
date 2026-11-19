@@ -4,7 +4,7 @@
 
 **Um jogo de plataforma e exploração com chefes que aprendem o seu jeito de jogar.**
 
-![Versão](https://img.shields.io/badge/vers%C3%A3o-Alpha%201.0.0-d9a441)
+![Versão](https://img.shields.io/badge/vers%C3%A3o-Alpha%201.1.0-d9a441)
 ![Plataforma](https://img.shields.io/badge/plataforma-Windows%2010%2F11-3a6ea5)
 ![Motor](https://img.shields.io/badge/Unity-6.3%20URP-222222)
 ![Idiomas](https://img.shields.io/badge/idiomas-PT%20%C2%B7%20EN%20%C2%B7%20FR%20%C2%B7%20IT%20%C2%B7%20RU%20%C2%B7%20ZH-6a8f4e)
@@ -47,7 +47,7 @@ No fim de cada etapa há um **chefe que aprende**. Ele observa o que você repet
 
 ## Como jogar
 
-1. Baixe o `ORIGIN_Alpha_1.0.0.zip` em **[Releases](../../releases)**.
+1. Baixe o `ORIGIN_Alpha_1.1.0.zip` em **[Releases](../../releases)**.
 2. Descompacte a pasta inteira e abra o `ORIGIN.exe`.
 3. Se o Windows mostrar "O Windows protegeu o computador", clique em **Mais informações** e depois em **Executar assim mesmo**. O jogo ainda não tem assinatura digital.
 

@@ -2,6 +2,30 @@
 
 Todas as mudanças do ORIGIN, da mais nova para a mais antiga.
 
+## Alpha 1.1.0 (19/11/2026)
+
+Primeiro parecer de testador (até o Dia 5). 
+
+**Desempenho e estabilidade**
+
+- O jogo trava em 60 FPS; antes rodava sem limite e a placa de vídeo ia a 70%. Fora de foco, cai para 10 FPS.
+- O executável usa Direct3D 11 (mais estável que o D3D12 automático).
+- Corrigido um erro ao sair de um Dia (inimigos destruídos) e um vazamento da textura do minimapa.
+
+**Chefes**
+
+- Maré Sem Fundo: as ondas não se sobrepõem mais; a abertura de cada anel fica perto da anterior.
+- Eclipse: E e T têm recarga (2 s e 1 s), e os guardiões descansam 6 s depois de cada eclipse. As recargas aparecem em volta do personagem.
+
+**Som**
+
+- Novas trilhas do menu, dos 7 Dias, do Santuário e das memórias: com melodia, sem o drone e o coro que soavam como terror.
+
+**Apresentação**
+
+- Créditos refeitos, com agradecimento aos testadores.
+- Vídeo final: as pessoas agora andam alternando as pernas.
+
 ## Alpha 1.0.0 (11/11/2026)
 
 Primeira versão para testadores.
